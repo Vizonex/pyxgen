@@ -1,5 +1,5 @@
 # pyxgen
-A Cython Bindings Generator Written with Python/Rust (Haven't Completely Decided on it yet). Inspired by many different projects.
+A Cython Bindings Generator Written with Python. Inspired by many different projects.
 
 # Why A new bindings generator?
 To be fair I didn't want to have to do all the work myself but time and time again 
@@ -16,7 +16,8 @@ The Project's goal is to remain AI-Free. Based on the principle that Teaching yo
 how to do something will allow you to learn something.
 
 
-
-
-
+## Credits
+- [pxdgen](https://github.com/earowley/pxdgen) inspired me to further Continue the concept into also brought up the idea that we should add parameter names.
+- [rust-bindgen](https://github.com/rust-lang/rust-bindgen) brought up the idea of having an organized setup & compile api.
+- cython-wrapper Inspired this project as a whole although it's an older project.
 
